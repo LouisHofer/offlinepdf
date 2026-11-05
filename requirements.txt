@@ -1,0 +1,6 @@
+# Keep local development versions aligned with buildozer.spec.
+kivy==2.3.1
+plyer==2.1.0
+pyjnius==1.7.0
+# Keep requests' detector pure Python in Android builds.
+chardet==5.2.0
